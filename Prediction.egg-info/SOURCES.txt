@@ -1,3 +1,4 @@
+README.md
 setup.py
 Prediction.egg-info/PKG-INFO
 Prediction.egg-info/SOURCES.txt
@@ -5,3 +6,8 @@ Prediction.egg-info/dependency_links.txt
 Prediction.egg-info/requires.txt
 Prediction.egg-info/top_level.txt
 src/__init__.py
+src/components/__init__.py
+src/components/data_ingestion.py
+src/components/data_transformation.py
+src/components/model_trainer.py
+src/pipelines/__init__.py
